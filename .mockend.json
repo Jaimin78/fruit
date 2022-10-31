@@ -1,5 +1,4 @@
-[
- "Fruit":{
+"Fruit":{
     {
         "id": 1,
         "name": "Banana",
@@ -37,4 +36,3 @@
         "photoUrl":"https://cdn.shopify.com/s/files/1/0610/2881/products/cherries.jpg?v=1446676415"
     }
   }
-]
