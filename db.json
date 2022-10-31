@@ -1,6 +1,5 @@
 {
   "posts": [
-    {
       {
         "id": 1,
         "name": "Banana",
@@ -36,7 +35,6 @@
         "name": "Cherry",
         "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus.",
         "photoUrl":"https://cdn.shopify.com/s/files/1/0610/2881/products/cherries.jpg?v=1446676415"
-    }
     }
   ],
   "profile": {
